@@ -1,0 +1,31 @@
+tabla de usuarios:
+	*id
+	*usuario
+	*contraseña
+	*email
+	*nombre completo
+	*descripcion personal
+	*favoritos: id_textos
+	*lecturas_recientes: id_textos
+	
+tabla de colores:
+	id
+	nombre
+	text-color
+	background-color
+	
+tabla de textos:
+	id:
+	id_autor: id_de_usuario
+	id_color
+	titulo
+	texto:	
+	genero
+	descripcion
+	publico:boolean
+	abierto a colaboracion: boolean
+	terminado: booleano
+	me_gusta: id_de_usuarios
+	created: datetime
+	updated: datetime
+

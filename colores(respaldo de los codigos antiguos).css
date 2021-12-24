@@ -1,0 +1,437 @@
+/*==================================================
+                    PALETA 1
+==================================================*/
+.color-1-bg-a{background-color:hsl(156, 100%, 65%);}
+.color-1-bg-b{background-color:hsl(156, 100%, 86%);}
+.color-1-bg-c{background-color:hsl(156, 100%, 95%);}
+
+.color-1-tx-a{color:hsl(156, 100%, 65%);}
+.color-1-tx-b{color:hsl(156, 100%, 86%);}
+.color-1-tx-c{color:hsl(156, 100%, 95%);}
+.color-1-tx-1{color:#555;}
+.color-1-tx-2{color:#222;}
+.color-1-tx-3{color:hsl(156, 100%, 15%);}
+.color-1-tx-4{color:hsl(156, 100%, 25%);}
+
+/*colores del disparador*/
+.color-1-bg-disparador{background-color:hsl(156, 100%, 65%);}
+.color-1-tx-disparador{color:hsl(156, 50%, 30%);}
+.color-1-linea-vertical{background-color:hsl(156, 100%, 95%);}
+.color-1-linea-punteada{color:hsl(156, 100%, 65%);}
+.color-1-punto{color:hsl(156, 100%, 95%);}
+.color-1-marcador,
+.color-1-estrella{color:#555;}
+
+/*FIN PALETA 1
+====================================================*/
+
+
+
+/*==================================================
+                    PALETA 2
+==================================================*/
+.color-2-bg-a{background-color:hsl(208, 100%, 65%);}
+.color-2-bg-b{background-color:hsl(208, 100%, 86%);}
+.color-2-bg-c{background-color:hsl(208, 100%, 95%);}
+
+.color-2-tx-a{color:hsl(208, 100%, 65%);}
+.color-2-tx-b{color:hsl(208, 100%, 86%);}
+.color-2-tx-c{color:hsl(208, 100%, 95%);}
+.color-2-tx-1{color:#eee;}
+.color-2-tx-2{color:#555;}
+.color-2-tx-3{color:hsl(208, 100%, 15%);}
+.color-2-tx-4{color:hsl(208, 100%, 25%);}
+
+/*colores del disparador*/
+.color-2-bg-disparador{background-color:hsl(208, 100%, 65%);}
+.color-2-tx-disparador{color:hsl(208, 100%, 90%);}
+.color-2-linea-vertical{background-color:hsl(208, 100%, 95%);}
+.color-2-linea-punteada{color:hsl(208, 100%, 65%);}
+.color-2-punto{color:hsl(208, 100%, 95%);}
+.color-2-marcador,
+.color-2-estrella{color:#555;}
+
+/*FIN PALETA 2
+====================================================*/
+
+
+/*==================================================
+                    PALETA 3
+==================================================*/
+.color-3-bg-a{background-color:hsl(55, 100%, 65%);}
+.color-3-bg-b{background-color:hsl(55, 100%, 86%);}
+.color-3-bg-c{background-color:hsl(55, 100%, 95%);}
+
+.color-3-tx-a{color:hsl(55, 100%, 65%);}
+.color-3-tx-b{color:hsl(55, 100%, 86%);}
+.color-3-tx-c{color:hsl(55, 100%, 95%);}
+.color-3-tx-1{color:#eee;}
+.color-3-tx-2{color:#555;}
+.color-3-tx-3{color:hsl(55, 100%, 15%);}
+.color-3-tx-4{color:hsl(55, 100%, 25%);}
+
+/*colores del disparador*/
+.color-3-bg-disparador{background-color:hsl(55, 100%, 65%);}
+.color-3-tx-disparador{color:hsl(55, 50%, 30%);}
+.color-3-linea-vertical{background-color:hsl(55, 100%, 95%);}
+.color-3-linea-punteada{color:hsl(55, 100%, 65%);}
+.color-3-punto{color:hsl(55, 100%, 95%);}
+.color-3-marcador,
+.color-3-estrella{color:#555;}
+
+/*FIN PALETA 3
+====================================================*/
+
+
+
+/*==================================================
+                    PALETA 4
+==================================================*/
+.color-4-bg-a{background-color:hsl(277, 100%, 65%);}
+.color-4-bg-b{background-color:hsl(277, 100%, 86%);}
+.color-4-bg-c{background-color:hsl(277, 100%, 95%);}
+
+.color-4-tx-a{color:hsl(277, 100%, 65%);}
+.color-4-tx-b{color:hsl(277, 100%, 86%);}
+.color-4-tx-c{color:hsl(277, 100%, 95%);}
+.color-4-tx-1{color:#555;}
+.color-4-tx-2{color:#333;}
+.color-4-tx-3{color:hsl(277, 100%, 15%);}
+.color-4-tx-4{color:hsl(277, 100%, 95%);}
+
+/*colores del disparador*/
+.color-4-bg-disparador{background-color:hsl(277, 100%, 86%);}
+.color-4-tx-disparador{color:hsl(277, 5%, 30%);}
+.color-4-linea-vertical{background-color:hsl(277, 100%, 95%);}
+.color-4-linea-punteada{color:hsl(277, 100%, 86%);}
+.color-4-punto{color:hsl(277, 100%, 95%);}
+.color-4-marcador,
+.color-4-estrella{color:#555;}
+
+/*FIN PALETA 4
+====================================================*/
+
+
+
+/*==================================================
+                    PALETA 5
+==================================================*/
+.color-5-bg-a{background-color:hsl(150, 44%, 36%);}
+.color-5-bg-b{background-color:hsl(150, 44%, 70%);}
+.color-5-bg-c{background-color:hsl(150, 44%, 90%);}
+
+.color-5-tx-a{color:hsl(150, 100%, 65%);}
+.color-5-tx-b{color:hsl(150, 100%, 86%);}
+.color-5-tx-c{color:hsl(150, 100%, 95%);}
+.color-5-tx-1{color:#eee;}
+.color-5-tx-2{color:#555;}
+.color-5-tx-3{color:hsl(150, 100%, 10%);}
+.color-5-tx-4{color:hsl(150, 100%, 90%);}
+
+/*colores del disparador*/
+.color-5-bg-disparador{background-color:hsl(150, 44%, 70%);}
+.color-5-tx-disparador{color:hsl(150, 10%, 35%);}
+.color-5-linea-vertical{background-color:hsl(150, 44%, 90%);}
+.color-5-linea-punteada{color:hsl(150, 44%, 70%);}
+.color-5-punto{color:hsl(150, 44%, 95%);}
+.color-5-marcador,
+.color-5-estrella{color:#555;}
+
+/*FIN PALETA 5
+====================================================*/
+
+
+/*==================================================
+                    PALETA 6
+==================================================*/
+.color-6-bg-a{background-color:hsl(11, 100%, 36%);}
+.color-6-bg-b{background-color:hsl(11, 100%, 70%);}
+.color-6-bg-c{background-color:hsl(11, 100%, 90%);}
+
+.color-6-tx-a{color:hsl(11, 100%, 36%);}
+.color-6-tx-b{color:hsl(11, 100%, 70%);}
+.color-6-tx-c{color:hsl(11, 100%, 90%);}
+.color-6-tx-1{color:#eee;}
+.color-6-tx-2{color:#555;}
+.color-6-tx-3{color:hsl(11, 100%, 15%);}
+.color-6-tx-4{color:hsl(11, 100%, 25%);}
+
+/*colores del disparador*/
+.color-6-bg-disparador{background-color:hsl(11, 100%, 70%);}
+.color-6-tx-disparador{color:hsl(11, 20%, 35%);}
+.color-6-linea-vertical{background-color:hsl(11, 100%, 90%);}
+.color-6-linea-punteada{color:hsl(11, 100%, 70%);}
+.color-6-punto{color:hsl(11, 100%, 90%);}
+.color-6-marcador,
+.color-6-estrella{color:#555;}
+
+/*FIN PALETA 6
+====================================================*/
+/*PALETA 6*/
+/*.color6-1{
+    background-color:hsl(11, 100%, 65%);
+    color: #eee ;
+}
+.color6-2{
+    background-color:hsl(11, 100%, 86%);
+    color: #444 ;
+}
+.color6-3{
+    background-color:hsl(11, 100%, 95%);
+    color: #eee ;
+}
+.color6-1-linea{color:hsl(11, 100%, 20%);}
+.color6-2-linea{color:hsl(11, 100%, 90%);}*/
+
+/*PALETA 6*/
+/*.color-6-bg-a,
+.color-6-bg-disparador{background-color:hsl(150, 100%, 65%);}
+.color-6-bg-b{background-color:hsl(150, 100%, 86%);}
+.color-6-bg-c,
+.color-6-linea-vertical{background-color:hsl(150, 100%, 95%);}
+
+.color-6-tx-a{color:hsl(150, 100%, 65%);}
+.color-6-tx-b,
+.color-6-linea-punteada{color:hsl(150, 100%, 86%);}
+.color-6-tx-c,
+.color-6-punto{color:hsl(150, 100%, 95%);}
+
+.color-6-tx-1{color:#eee;}
+.color-6-tx-2,
+.color-6-marcador,
+.color-6-estrella,
+.color-6-tx-disparador{color:#555;}
+.color-6-tx-3{color:hsl(150, 100%, 10%);}
+.color-6-tx-4{color:hsl(150, 100%, 90%);}*/
+
+
+
+
+/*==================================================
+                    PALETA 7
+==================================================*/
+.color-7-bg-a{background-color:hsl(210, 100%, 36%);}
+.color-7-bg-b{background-color:hsl(210, 100%, 70%);}
+.color-7-bg-c{background-color:hsl(210, 100%, 90%);}
+
+.color-7-tx-a{color:hsl(210, 100%, 36%);}
+.color-7-tx-b{color:hsl(210, 100%, 70%);}
+.color-7-tx-c{color:hsl(210, 100%, 90%);}
+.color-7-tx-1{color:#eee;}
+.color-7-tx-2{color:#555;}
+.color-7-tx-3{color:hsl(210, 100%, 15%);}
+.color-7-tx-4{color:hsl(210, 100%, 25%);}
+
+/*colores del disparador*/
+.color-7-bg-disparador{background-color:hsl(210, 100%, 65%);}
+.color-7-tx-disparador{color:hsl(210, 10%, 90%);}
+.color-7-linea-vertical{background-color:hsl(210, 100%, 90%);}
+.color-7-linea-punteada{color:hsl(210, 100%, 65%);}
+.color-7-punto{color:hsl(210, 100%, 90%);}
+.color-7-marcador,
+.color-7-estrella{color:#555;}
+
+/*FIN PALETA 7
+====================================================*/
+/*PALETA 7*/
+/*.color7-1{
+    background-color:hsl(210, 100%, 36%);
+    color: #eee ;
+}
+.color7-2{
+    background-color:hsl(210, 100%, 70%);
+    color: #eee ;
+}
+.color7-3{
+    background-color:hsl(210, 100%, 90%);
+    color: #eee ;
+}
+.color7-1-linea{color:hsl(210, 100%, 15%);}
+.color7-2-linea{color:hsl(210, 100%, 90%);}
+.color7-letra, .color8-letra, .color9-letra, .color10-letra{color:#eee;background-color:#eee;}*/
+/*PALETA 7*/
+/*.color-7-bg-a{background-color:hsl(210, 100%, 36%);}
+.color-7-bg-b{background-color:hsl(210, 100%, 70%);}
+.color-7-bg-c{background-color:hsl(210, 100%, 90%);}
+
+.color-7-tx-a{color:hsl(210, 100%, 36%);}
+.color-7-tx-b{color:hsl(210, 100%, 70%);}
+.color-7-tx-c{color:hsl(210, 100%, 90%);}
+
+.color-7-tx-1{color:#eee;}
+.color-7-tx-2{color:#aaa;}
+.color-7-tx-3{color:hsl(210, 100%, 15%);}
+.color-7-tx-4{color:hsl(210, 100%, 90%);}*/
+
+
+
+/*==================================================
+                    PALETA 8
+==================================================*/
+.color-8-bg-a{background-color:hsl(0, 100%, 36%);}
+.color-8-bg-b{background-color:hsl(0, 100%, 70%);}
+.color-8-bg-c{background-color:hsl(0, 100%, 90%);}
+
+.color-8-tx-a{color:hsl(0, 100%, 36%);}
+.color-8-tx-b{color:hsl(0, 100%, 70%);}
+.color-8-tx-c{color:hsl(0, 100%, 90%);}
+.color-8-tx-1{color:#eee;}
+.color-8-tx-2{color:#555;}
+.color-8-tx-3{color:hsl(0, 100%, 15%);}
+.color-8-tx-4{color:hsl(0, 100%, 25%);}
+
+/*colores del disparador*/
+.color-8-bg-disparador{background-color:hsl(0, 100%, 70%);}
+.color-8-tx-disparador{color:hsl(0, 100%, 90%);}
+.color-8-linea-vertical{background-color:hsl(0, 100%, 90%);}
+.color-8-linea-punteada{color:hsl(0, 100%, 65%);}
+.color-8-punto{color:hsl(0, 100%, 95%);}
+.color-8-marcador,
+.color-8-estrella{color:#555;}
+
+/*FIN PALETA 8
+====================================================*/
+/*PALETA 8*/
+/*.color8-1{
+    background-color:hsl(0, 90%, 36%);
+    color: #eee ;
+}
+.color8-2{
+    background-color:hsl(0, 90%, 70%);
+    color: #eee ;
+}
+.color8-3{
+    background-color:hsl(0, 90%, 90%);
+    color: #eee ;
+}
+.color8-1-linea{color:hsl(0, 90%, 10%);}
+.color8-2-linea{color:hsl(0, 90%, 90%);}
+/*PALETA 8*/
+/*.color-8-bg-a{background-color:hsl(0, 90%, 36%);}
+.color-8-bg-b{background-color:hsl(0, 90%, 70%);}
+.color-8-bg-c{background-color:hsl(0, 90%, 90%);}
+
+.color-8-tx-a{color:hsl(0, 90%, 36%);}
+.color-8-tx-b{color:hsl(0, 90%, 70%);}
+.color-8-tx-c{color:hsl(0, 90%, 90%);}
+
+.color-8-tx-1{color:#eee;}
+.color-8-tx-2{color:#aaa;}
+.color-8-tx-3{color:hsl(0, 90%, 10%);}
+.color-8-tx-4{color:hsl(0, 90%, 90%);}*/
+
+
+/*==================================================
+                    PALETA 9
+==================================================*/
+.color-9-bg-a{background-color:hsl(315, 44%, 36%);}
+.color-9-bg-b{background-color:hsl(315, 44%, 70%);}
+.color-9-bg-c{background-color:hsl(315, 44%, 90%);}
+
+.color-9-tx-a{color:hsl(315, 44%, 36%);}
+.color-9-tx-b{color:hsl(315, 44%, 70%);}
+.color-9-tx-c{color:hsl(315, 44%, 90%);}
+.color-9-tx-1{color:#eee;}
+.color-9-tx-2{color:#555;}
+.color-9-tx-3{color:hsl(315, 44%, 15%);}
+.color-9-tx-4{color:hsl(315, 44%, 25%);}
+
+/*colores del disparador*/
+.color-9-bg-disparador{background-color:hsl(315, 44%, 65%);}
+.color-9-tx-disparador{color:hsl(315, 44%, 90%);}
+.color-9-linea-vertical{background-color:hsl(315, 44%, 90%);}
+.color-9-linea-punteada{color:hsl(315, 44%, 65%);}
+.color-9-punto{color:hsl(315, 44%, 90%);}
+.color-9-marcador,
+.color-9-estrella{color:#555;}
+
+/*FIN PALETA 9
+====================================================*/
+
+/*PALETA 9*/
+/*.color9-1{
+    background-color:hsl(315, 44%, 36%);
+    color: #eee ;
+}
+.color9-2{
+    background-color:hsl(315, 44%, 70%);
+    color: #eee ;
+}
+.color9-3{
+    background-color:hsl(315, 44%, 90%);
+    color: #eee ;
+}
+.color9-1-linea{color:hsl(315, 44%, 15%);}
+.color9-2-linea{color:hsl(315, 44%, 90%);}*/
+/*PALETA 9*/
+/*.color-9-bg-a{background-color:hsl(315, 44%, 36%);}
+.color-9-bg-b{background-color:hsl(315, 44%, 70%);}
+.color-9-bg-c{background-color:hsl(315, 44%, 90%);}
+
+.color-9-tx-a{color:hsl(315, 44%, 36%);}
+.color-9-tx-b{color:hsl(315, 44%, 70%);}
+.color-9-tx-c{color:hsl(315, 44%, 90%);}
+
+.color-9-tx-1{color:#eee;}
+.color-9-tx-2{color:#aaa;}
+.color-9-tx-3{color:hsl(315, 44%, 15%);}
+.color-9-tx-4{color:hsl(315, 44%, 90%);}*/
+
+
+
+
+/*==================================================
+                    PALETA 10
+==================================================*/
+.color-10-bg-a{background-color:hsl(22, 44%, 36%);}
+.color-10-bg-b{background-color:hsl(315, 44%, 70%);}
+.color-10-bg-c{background-color:hsl(315, 44%, 90%);}
+
+.color-10-tx-a{color:hsl(22, 44%, 36%);}
+.color-10-tx-b{color:hsl(22, 44%, 70%);}
+.color-10-tx-c{color:hsl(22, 44%, 90%);}
+.color-10-tx-1{color:#eee;}
+.color-10-tx-2{color:#555;}
+.color-10-tx-3{color:hsl(22, 44%, 15%);}
+.color-10-tx-4{color:hsl(22, 44%, 25%);}
+
+/*colores del disparador*/
+.color-10-bg-disparador{background-color:hsl(22, 44%, 65%);}
+.color-10-tx-disparador{color:hsl(22, 44%, 90%);}
+.color-10-linea-vertical{background-color:hsl(22, 44%, 90%);}
+.color-10-linea-punteada{color:hsl(22, 44%, 65%);}
+.color-10-punto{color:hsl(22, 44%, 90%);}
+.color-10-marcador,
+.color-10-estrella{color:#555;}
+
+/*FIN PALETA 10
+====================================================*/
+
+/*PALETA 10*/
+/*.color10-1{
+    background-color:hsl(22, 44%, 36%);
+    color: #eee ;
+}
+.color10-2{
+    background-color:hsl(22, 44%, 70%);
+    color: #eee ;
+}
+.color10-3{
+    background-color:hsl(22, 44%, 90%);
+    color: #eee ;
+}
+.color10-1-linea{color:hsl(22, 44%, 10%);}
+.color10-2-linea{color:hsl(22, 44%, 90%);}*/
+/*PALETA 10*/
+/*.color-10-bg-a{background-color:hsl(22, 44%, 36%);}
+.color-10-bg-b{background-color:hsl(22, 44%, 70%);}
+.color-10-bg-c{background-color:hsl(22, 44%, 90%);}
+
+.color-10-tx-a{color:hsl(22, 44%, 36%);}
+.color-10-tx-b{color:hsl(22, 44%, 70%);}
+.color-10-tx-c{color:hsl(22, 44%, 90%);}
+
+.color-10-tx-1{color:#eee;}
+.color-10-tx-2{color:#aaa;}
+.color-10-tx-3{color:hsl(22, 44%, 10%);}
+.color-10-tx-4{color:hsl(22, 44%, 90%);}*/

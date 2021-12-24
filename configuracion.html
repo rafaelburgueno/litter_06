@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>litter - configuracion</title>
+    <!-- jQuery-3.3.1 -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!--cdn w3 school-->
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="estilo.css">
+    <link rel="stylesheet" href="colores.css">
+
+    <style>
+
+
+    </style>
+
+</head>
+
+<body class="color-random-bg-c color-random-tx-1">
+
+    <header class="color-random-bg-b">
+        <nav class="w3-xlarge w3-row">
+            <!-- <a href="#" class="w3-bar-item">litter_05</a> -->
+            <div class="w3-col s2 w3-center w3-hover-opacity">
+                <a href="inicio.html" class="" title="inicio"><i class="fa fa-home"></i></a>
+            </div>
+            <div class="w3-col s2 w3-center w3-hover-opacity">
+                <a href="usuario.html" class="" title="usuario"><i class="fa fa-user-circle"></i></a>
+            </div>
+            <div class="w3-col s2 w3-center w3-hover-opacity">
+                <a href="crear.html" class="" title="crear"><i class="fa fa-pencil"></i></a>
+            </div>
+            <div class="w3-col s2 w3-center w3-hover-opacity">
+                <a href="busqueda.html" class="" title="busqueda"><i class="fa fa-search"></i></a>
+            </div>
+            <div class="w3-col s2 w3-center color-random-bg-c">
+                <a href="configuracion.html" class="" title="configuracion"><i class="fa fa-cog"></i></a>
+            </div>
+            <div class="w3-col s2 w3-center w3-hover-opacity">
+                <a href="salir.html" class="" title="cerrar sesion"><i class="fa fa-sign-out"></i></a>
+            </div>
+        </nav>
+    </header>
+
+
+    <section class="">
+
+        <div class="formulario w3-round-large">
+            <div class="color-random-bg-a w3-container w3-center borde-redondo-header">
+                <p class="w3-xlarge">configuracion de usuario</p>
+            </div>
+
+            <form class="w3-container w3-margin-top" method="post">
+
+                <div class="w3-padding">
+                    <label for="usuario" class="w3-text-grey">usuario</label>
+                    <input class="w3-input w3-border w3-white w3-round-large" name="usuario" type="text" id="usuario">
+                </div>
+
+                <div class="w3-padding">
+                    <label for="nombre" class="w3-text-grey">nombre completo</label>
+                    <input class="w3-input w3-border w3-white w3-round-large" name="nombre" type="text" id="nombre">
+                </div>
+
+                <div class="w3-padding">
+                    <label for="nacimiento" class="w3-text-grey">fecha de nacimiento</label>
+                    <input class="w3-input w3-border w3-white w3-round-large" type="date" name="nacimiento" id="nacimiento">
+                </div>
+
+                <div class="w3-padding">
+                    <label for="intereses" class="w3-text-grey">intereses (autores favoritos, obras favoritas, etc.)</label>
+                    <textarea class="w3-input w3-border w3-white w3-round-large" type="text" name="intereses" id="intereses"></textarea>
+                </div>
+
+                <div class="w3-row-padding w3-padding">
+                    <div class="w3-col s6">
+                        <label for="password" class="w3-text-grey">password</label>
+                        <input class="w3-input w3-border w3-white w3-round-large" name="password" type="password" id="password">
+                    </div>
+                    <div class="w3-col s6">
+                        <label for="password2" class="w3-text-grey">repetir password</label>
+                        <input class="w3-input w3-border w3-white w3-round-large" name="password2" type="password" id="password2">
+                    </div>
+                </div>
+
+                <div class="w3-padding">
+                    <label for="e-mail" class="w3-text-grey">e-mail</label>
+                    <input class="w3-input w3-border w3-white w3-round-large" name="e-mail" type="email" id="e-mail">
+                </div>
+
+                <div class="w3-padding-16 w3-margin w3-center">
+                    <button type="submit" class="color-random-bg-a color-random-tx-1 w3-btn w3-round-large">guardar</button>
+                </div>
+
+            </form>
+        </div><!-- div formulario -->
+
+    </section>
+
+
+    <!-- Footer -->
+    <footer class="color-random-bg-a w3-container w3-padding-32 w3-center w3-xlarge">
+        <i class="fa fa-facebook-official w3-hover-opacity color-random-tx-c"></i>
+        <i class="fa fa-instagram w3-hover-opacity color-random-tx-c"></i>
+        <i class="fa fa-snapchat w3-hover-opacity color-random-tx-c"></i>
+        <i class="fa fa-pinterest-p w3-hover-opacity color-random-tx-c"></i>
+        <i class="fa fa-twitter w3-hover-opacity color-random-tx-c"></i>
+        <i class="fa fa-linkedin w3-hover-opacity color-random-tx-c"></i>
+        <p class="w3-medium color-random-tx-c">creado por <a href="#"><span class="logo">Soda Voce Spaceman</span></a></p>
+    </footer>
+
+
+<script src="funciones.js"></script>
+
+</body>
+</html>

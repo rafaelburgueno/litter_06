@@ -1,0 +1,334 @@
+/*==================================================
+                    PALETA 1 verde 1
+==================================================*/
+.color-1-bg-a{background-color:hsl(150, 100%, 65%);}
+.color-1-bg-b{background-color:hsl(150, 100%, 86%);}
+.color-1-bg-c{background-color:hsl(150, 100%, 95%);}
+
+.color-1-tx-a{color:hsl(150, 100%, 65%);}
+.color-1-tx-b{color:hsl(150, 100%, 86%);}
+.color-1-tx-c{color:hsl(150, 100%, 95%);}
+.color-1-tx-1{color:#555;}
+.color-1-tx-2{color:#222;}
+.color-1-tx-3{color:hsl(150, 100%, 15%);}
+.color-1-tx-4{color:hsl(150, 100%, 25%);}
+
+/*colores del disparador*/
+.color-1-bg-disparador{background-color:hsl(145, 100%, 65%);}
+.color-1-tx-disparador{color:hsl(150, 50%, 30%);}
+.color-1-linea-vertical{background-color:hsl(150, 100%, 95%);}
+.color-1-linea-punteada{color:hsl(150, 100%, 65%);}
+.color-1-punto{color:hsl(150, 100%, 95%);}
+.color-1-marcador,
+.color-1-estrella{color:hsl(150, 20%, 30%);}
+
+/*FIN PALETA 1
+====================================================*/
+
+
+/*==================================================
+                    PALETA 2
+==================================================*/
+.color-2-bg-a{background-color:hsl(300, 50%, 65%);}
+.color-2-bg-b{background-color:hsl(300, 50%, 86%);}
+.color-2-bg-c{background-color:hsl(300, 50%, 95%);}
+
+.color-2-tx-a{color:hsl(300, 50%, 65%);}
+.color-2-tx-b{color:hsl(300, 50%, 86%);}
+.color-2-tx-c{color:hsl(300, 50%, 95%);}
+.color-2-tx-1{color:#eee;}
+.color-2-tx-2{color:#555;}
+.color-2-tx-3{color:hsl(300, 50%, 15%);}
+.color-2-tx-4{color:hsl(300, 50%, 25%);}
+
+/*colores del disparador*/
+.color-2-bg-disparador{background-color:hsl(45, 95%, 60%);}
+.color-2-tx-disparador{color:hsl(55, 50%, 25%);}
+.color-2-linea-vertical{background-color:hsl(300, 50%, 95%);}
+.color-2-linea-punteada{color:hsl(300, 50%, 65%);}
+.color-2-punto{color:hsl(300, 50%, 95%);}
+.color-2-marcador,
+.color-2-estrella{color:hsl(300, 20%, 30%);}
+
+/*FIN PALETA 2
+====================================================*/
+
+
+/*==================================================
+                    PALETA 3 verde -1
+==================================================*/
+.color-3-bg-a{background-color:hsl(100, 80%, 65%);}
+.color-3-bg-b{background-color:hsl(100, 80%, 86%);}
+.color-3-bg-c{background-color:hsl(100, 80%, 95%);}
+
+.color-3-tx-a{color:hsl(100, 80%, 65%);}
+.color-3-tx-b{color:hsl(100, 80%, 86%);}
+.color-3-tx-c{color:hsl(100, 80%, 95%);}
+.color-3-tx-1{color:#eee;}
+.color-3-tx-2{color:#555;}
+.color-3-tx-3{color:hsl(100, 80%, 15%);}
+.color-3-tx-4{color:hsl(100, 80%, 25%);}
+
+/*colores del disparador*/
+.color-3-bg-disparador{background-color:hsl(85, 86%, 62%);}
+.color-3-tx-disparador{color:hsl(95, 20%, 30%);}
+.color-3-linea-vertical{background-color:hsl(100, 80%, 95%);}
+.color-3-linea-punteada{color:hsl(100, 80%, 65%);}
+.color-3-punto{color:hsl(100, 80%, 95%);}
+.color-3-marcador,
+.color-3-estrella{color:hsl(100, 20%, 30%);}
+
+/*FIN PALETA 3
+====================================================*/
+
+
+/*==================================================
+                    PALETA 4
+==================================================*/
+.color-4-bg-a{background-color:hsl(240, 80%, 60%);}
+.color-4-bg-b{background-color:hsl(240, 80%, 85%);}
+.color-4-bg-c{background-color:hsl(240, 80%, 95%);}
+
+.color-4-tx-a{color:hsl(240, 80%, 60%);}
+.color-4-tx-b{color:hsl(240, 80%, 85%);}
+.color-4-tx-c{color:hsl(240, 80%, 95%);}
+.color-4-tx-1{color:#555;}
+.color-4-tx-2{color:#333;}
+.color-4-tx-3{color:hsl(240, 80%, 15%);}
+.color-4-tx-4{color:hsl(240, 80%, 95%);}
+
+/*colores del disparador*/
+.color-4-bg-disparador{background-color:hsl(230, 80%, 60%);}
+.color-4-tx-disparador{color:hsl(240, 50%, 90%);}
+.color-4-linea-vertical{background-color:hsl(240, 80%, 95%);}
+.color-4-linea-punteada{color:hsl(240, 80%, 60%);}
+.color-4-punto{color:hsl(240, 80%, 95%);}
+.color-4-marcador,
+.color-4-estrella{color:hsl(240, 15%, 30%);}
+
+/*FIN PALETA 4
+====================================================*/
+
+
+/*==================================================
+                    PALETA 5
+==================================================*/
+.color-5-bg-a{background-color:hsl(30, 100%, 65%);}
+.color-5-bg-b{background-color:hsl(30, 100%, 86%);}
+.color-5-bg-c{background-color:hsl(30, 100%, 95%);}
+
+.color-5-tx-a{color:hsl(30, 100%, 65%);}
+.color-5-tx-b{color:hsl(30, 100%, 86%);}
+.color-5-tx-c{color:hsl(30, 100%, 95%);}
+.color-5-tx-1{color:#eee;}
+.color-5-tx-2{color:#555;}
+.color-5-tx-3{color:hsl(30, 100%, 10%);}
+.color-5-tx-4{color:hsl(30, 100%, 90%);}
+
+/*colores del disparador*/
+.color-5-bg-disparador{background-color:hsl(12, 100%, 62%);}
+.color-5-tx-disparador{color:hsl(30, 20%, 90%);}
+.color-5-linea-vertical{background-color:hsl(30, 100%, 95%);}
+.color-5-linea-punteada{color:hsl(30, 100%, 65%);}
+.color-5-punto{color:hsl(30, 100%, 95%);}
+.color-5-marcador,
+.color-5-estrella{color:hsl(30, 20%, 30%);}
+
+/*FIN PALETA 5
+====================================================*/
+
+
+/*==================================================
+                    PALETA 6
+==================================================*/
+.color-6-bg-a{background-color:hsl(180, 85%, 45%);}
+.color-6-bg-b{background-color:hsl(180, 85%, 70%);}
+.color-6-bg-c{background-color:hsl(180, 85%, 90%);}
+
+.color-6-tx-a{color:hsl(180, 85%, 45%);}
+.color-6-tx-b{color:hsl(180, 85%, 70%);}
+.color-6-tx-c{color:hsl(180, 85%, 90%);}
+.color-6-tx-1{color:#eee;}
+.color-6-tx-2{color:#555;}
+.color-6-tx-3{color:hsl(180, 100%, 15%);}
+.color-6-tx-4{color:hsl(180, 100%, 25%);}
+
+/*colores del disparador*/
+.color-6-bg-disparador{background-color:hsl(185, 85%, 45%);}
+.color-6-tx-disparador{color:hsl(180, 20%, 25%);}
+.color-6-linea-vertical{background-color:hsl(180, 85%, 90%);}
+.color-6-linea-punteada{color:hsl(180, 85%, 45%);}
+.color-6-punto{color:hsl(180, 85%, 90%);}
+.color-6-marcador,
+.color-6-estrella{color:hsl(180, 20%, 35%);}
+
+/*FIN PALETA 6
+====================================================*/
+
+
+/*==================================================
+                    PALETA 7
+==================================================*/
+.color-7-bg-a{background-color:hsl(330, 70%, 55%);}
+.color-7-bg-b{background-color:hsl(330, 70%, 70%);}
+.color-7-bg-c{background-color:hsl(330, 70%, 90%);}
+
+.color-7-tx-a{color:hsl(330, 70%, 55%);}
+.color-7-tx-b{color:hsl(330, 70%, 70%);}
+.color-7-tx-c{color:hsl(330, 70%, 90%);}
+.color-7-tx-1{color:#eee;}
+.color-7-tx-2{color:#555;}
+.color-7-tx-3{color:hsl(330, 70%, 15%);}
+.color-7-tx-4{color:hsl(330, 70%, 25%);}
+
+/*colores del disparador*/
+.color-7-bg-disparador{background-color:hsl(345, 100%, 62%);}
+.color-7-tx-disparador{color:hsl(330, 20%, 90%);}
+.color-7-linea-vertical{background-color:hsl(330, 70%, 90%);}
+.color-7-linea-punteada{color:hsl(330, 70%, 55%);}
+.color-7-punto{color:hsl(330, 70%, 90%);}
+.color-7-marcador,
+.color-7-estrella{color:hsl(330, 15%, 20%);}
+
+/*FIN PALETA 7
+====================================================*/
+
+
+/*==================================================
+                    PALETA 8 verde 0
+==================================================*/
+.color-8-bg-a{background-color:hsl(115, 61%, 58%);}
+.color-8-bg-b{background-color:hsl(115, 61%, 75%);}
+.color-8-bg-c{background-color:hsl(115, 61%, 90%);}
+
+.color-8-tx-a{color:hsl(115, 61%, 58%);}
+.color-8-tx-b{color:hsl(115, 61%, 75%);}
+.color-8-tx-c{color:hsl(115, 61%, 90%);}
+.color-8-tx-1{color:#eee;}
+.color-8-tx-2{color:#555;}
+.color-8-tx-3{color:hsl(120, 65%, 15%);}
+.color-8-tx-4{color:hsl(120, 65%, 25%);}
+
+/*colores del disparador*/
+.color-8-bg-disparador{background-color:hsl(115, 61%, 58%);}
+.color-8-tx-disparador{color:hsl(115, 61%, 90%);}
+.color-8-linea-vertical{background-color:hsl(120, 65%, 90%);}
+.color-8-linea-punteada{color:hsl(115, 61%, 55%);}
+.color-8-punto{color:hsl(120, 65%, 90%);}
+.color-8-marcador,
+.color-8-estrella{color:hsl(120, 20%, 30%);}
+
+/*FIN PALETA 8
+====================================================*/
+
+
+/*==================================================
+                    PALETA 9
+==================================================*/
+.color-9-bg-a{background-color:hsl(270, 44%, 70%);}
+.color-9-bg-b{background-color:hsl(270, 44%, 86%);}
+.color-9-bg-c{background-color:hsl(270, 44%, 95%);}
+
+.color-9-tx-a{color:hsl(270, 44%, 70%);}
+.color-9-tx-b{color:hsl(270, 44%, 86%);}
+.color-9-tx-c{color:hsl(270, 44%, 95%);}
+.color-9-tx-1{color:#eee;}
+.color-9-tx-2{color:#555;}
+.color-9-tx-3{color:hsl(270, 44%, 15%);}
+.color-9-tx-4{color:hsl(270, 44%, 25%);}
+
+/*colores del disparador*/
+.color-9-bg-disparador{background-color:hsl(70, 90%, 63%);}
+.color-9-tx-disparador{color:hsl(80, 44%, 20%);}
+.color-9-linea-vertical{background-color:hsl(270, 44%, 95%);}
+.color-9-linea-punteada{color:hsl(270, 44%, 70%);}
+.color-9-punto{color:hsl(270, 44%, 95%);}
+.color-9-marcador,
+.color-9-estrella{color:hsl(270, 20%, 30%);}
+
+/*FIN PALETA 9
+====================================================*/
+
+
+/*==================================================
+                    PALETA 10
+==================================================*/
+.color-10-bg-a{background-color:hsl(60, 100%, 68%);}
+.color-10-bg-b{background-color:hsl(60, 80%, 80%);}
+.color-10-bg-c{background-color:hsl(60, 100%, 95%);}
+
+.color-10-tx-a{color:hsl(60, 100%, 68%);}
+.color-10-tx-b{color:hsl(60, 80%, 80%);}
+.color-10-tx-c{color:hsl(60, 100%, 95%);}
+.color-10-tx-1{color:#eee;}
+.color-10-tx-2{color:#555;}
+.color-10-tx-3{color:hsl(60, 75%, 15%);}
+.color-10-tx-4{color:hsl(60, 75%, 25%);}
+
+/*colores del disparador*/
+.color-10-bg-disparador{background-color:hsl(60, 100%, 68%);}
+.color-10-tx-disparador{color:hsl(60, 20%, 35%);}
+.color-10-linea-vertical{background-color:hsl(60, 75%, 95%);}
+.color-10-linea-punteada{color:hsl(60, 75%, 65%);}
+.color-10-punto{color:hsl(60, 75%, 95%);}
+.color-10-marcador,
+.color-10-estrella{color:hsl(60, 100%, 15%);}
+
+/*FIN PALETA 10
+====================================================*/
+
+
+/*==================================================
+                    PALETA 11 azul 1
+==================================================*/
+.color-11-bg-a{background-color:hsl(210, 100%, 65%);}
+.color-11-bg-b{background-color:hsl(210, 100%, 80%);}
+.color-11-bg-c{background-color:hsl(210, 100%, 95%);}
+
+.color-11-tx-a{color:hsl(210, 100%, 65%);}
+.color-11-tx-b{color:hsl(210, 100%, 80%);}
+.color-11-tx-c{color:hsl(210, 100%, 95%);}
+.color-11-tx-1{color:#eee;}
+.color-11-tx-2{color:#555;}
+.color-11-tx-3{color:hsl(210, 100%, 15%);}
+.color-11-tx-4{color:hsl(210, 100%, 25%);}
+
+/*colores del disparador*/
+.color-11-bg-disparador{background-color:hsl(210, 100%, 65%);}
+.color-11-tx-disparador{color:hsl(210, 100%, 90%);}
+.color-11-linea-vertical{background-color:hsl(210, 100%, 90%);}
+.color-11-linea-punteada{color:hsl(210, 100%, 65%);}
+.color-11-punto{color:hsl(210, 100%, 90%);}
+.color-11-marcador,
+.color-11-estrella{color:hsl(210, 20%, 30%);}
+
+/*FIN PALETA 11
+====================================================*/
+
+
+/*==================================================
+                    PALETA 12
+==================================================*/
+.color-12-bg-a{background-color:hsl(353, 80%, 55%);}
+.color-12-bg-b{background-color:hsl(353, 80%, 82%);}
+.color-12-bg-c{background-color:hsl(353, 80%, 95%);}
+
+.color-12-tx-a{color:hsl(353, 80%, 70%);}
+.color-12-tx-b{color:hsl(353, 80%, 86%);}
+.color-12-tx-c{color:hsl(353, 80%, 95%);}
+.color-12-tx-1{color:#eee;}
+.color-12-tx-2{color:#555;}
+.color-12-tx-3{color:hsl(353, 80%, 15%);}
+.color-12-tx-4{color:hsl(353, 80%, 25%);}
+
+/*colores del disparador*/
+.color-12-bg-disparador{background-color:hsl(353, 80%, 55%);}
+.color-12-tx-disparador{color:hsl(353, 80%, 90%);}
+.color-12-linea-vertical{background-color:hsl(0, 80%, 90%);}
+.color-12-linea-punteada{color:hsl(353, 80%, 70%);}
+.color-12-punto{color:hsl(353, 80%, 90%);}
+.color-12-marcador,
+.color-12-estrella{color:hsl(353, 20%, 90%);}
+
+/*FIN PALETA 12
+====================================================*/
